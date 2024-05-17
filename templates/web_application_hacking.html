@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Crawler</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/web_application_hacking.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/col.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Web Crawler</h1>
+        <div class="section">
+            <h2>Crawl Links</h2>
+            <form method="post" action="/web_application_hacking">
+                <label for="target_url">Enter Target URL:</label>
+                <input type="text" id="target_url" name="target_url" required>
+                <button type="submit" name="crawl_links">Crawl</button>
+            </form>
+            <ul>
+                {% for link in links %}
+                    <li><a href="{{ link }}" target="_blank">{{ link }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Check Directories</h2>
+            <form action="/web_application_hacking" method="post">
+                <label for="url">Enter URL:</label>
+                <input type="text" id="url" name="url" required>
+                <button type="submit" name="check_directory">Check Directories</button>
+            </form>
+            <ul>
+                {% for result in results %}
+                    <li>{{ result }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
