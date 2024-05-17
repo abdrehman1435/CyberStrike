@@ -1,0 +1,2117 @@
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+127.0.0.1 - - [16/May/2024 23:07:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:03] "GET /malware HTTP/1.1" 200 -
+r
+r
+Key.space
+s
+r
+h
+Key.space
+s
+Key.space
+h
+127.0.0.1 - - [16/May/2024 23:07:06] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:06] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:07] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:07] "GET /malware HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+e
+e
+e
+e
+e
+r
+r
+r
+r
+r
+t
+t
+t
+t
+t
+y
+y
+y
+y
+y
+Key.enter
+Key.enter
+Key.enter
+Key.enter
+Key.enter
+127.0.0.1 - - [16/May/2024 23:07:11] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:11] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:11] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:12] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:12] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:13] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:13] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:13] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:07:13] "GET /malware HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * Detected change in 'C:\\Users\\AKSHAY\\Desktop\\cyberStrike\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+ * Detected change in 'C:\\Users\\AKSHAY\\Desktop\\cyberStrike\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+ * Detected change in 'C:\\Users\\AKSHAY\\Desktop\\cyberStrike\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+ * Detected change in 'C:\\Users\\AKSHAY\\Desktop\\cyberStrike\\app.py', reloading
+ * Restarting with stat
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+127.0.0.1 - - [16/May/2024 23:13:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:13:28] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:13:28] "GET /socket.io/?EIO=4&transport=polling&t=O-2W7WL HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:13:28] "POST /socket.io/?EIO=4&transport=polling&t=O-2W7WX&sid=IhAXtroc7UnGuO43AAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:13:28] "GET /socket.io/?EIO=4&transport=polling&t=O-2W7WY&sid=IhAXtroc7UnGuO43AAAA HTTP/1.1" 200 -
+q
+w
+e
+r
+t
+y
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.alt_l
+Key.tab
+Key.alt_l
+Key.tab
+Key.alt_l
+Key.tab
+Key.shift
+M
+a
+l
+w
+a
+r
+e
+Key.shift
+K
+Key.shift
+e
+y
+l
+o
+o
+Key.backspace
+g
+g
+e
+r
+Key.alt_l
+Key.tab
+Key.f5
+127.0.0.1 - - [16/May/2024 23:14:18] "GET /socket.io/?EIO=4&transport=websocket&sid=IhAXtroc7UnGuO43AAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:14:18] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:14:18] "GET /socket.io/?EIO=4&transport=polling&t=O-2WJie HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:14:18] "POST /socket.io/?EIO=4&transport=polling&t=O-2WJio&sid=H9lpx1xbuyUoKAVpAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:14:18] "GET /socket.io/?EIO=4&transport=polling&t=O-2WJip&sid=H9lpx1xbuyUoKAVpAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:14:18] "GET /socket.io/?EIO=4&transport=polling&t=O-2WJiz&sid=H9lpx1xbuyUoKAVpAAAC HTTP/1.1" 200 -
+q
+q
+b
+b
+t
+t
+t
+t
+b
+b
+r
+r
+t
+t
+b
+b
+r
+r
+w
+w
+b
+b
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+
+
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+g
+g
+i
+i
+v
+v
+e
+e
+Key.space
+Key.space
+u
+u
+Key.backspace
+Key.backspace
+u
+u
+s
+s
+Key.space
+Key.space
+t
+t
+e
+e
+h
+h
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+h
+h
+e
+e
+Key.space
+Key.space
+b
+b
+e
+e
+s
+s
+t
+t
+Key.space
+Key.space
+c
+c
+s
+s
+s
+s
+Key.space
+Key.space
+f
+f
+o
+o
+r
+r
+Key.space
+Key.space
+t
+t
+h
+h
+e
+e
+Key.space
+Key.space
+Key.shift
+Key.shift
+Key.enter
+Key.enter
+Key.enter
+Key.enter
+Key.ctrl_l
+Key.ctrl_l
+
+
+Key.enter
+Key.enter
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+
+
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+127.0.0.1 - - [16/May/2024 23:15:29] "GET /socket.io/?EIO=4&transport=websocket&sid=H9lpx1xbuyUoKAVpAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:15:29] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:15:29] "GET /socket.io/?EIO=4&transport=polling&t=O-2Waye HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:15:29] "POST /socket.io/?EIO=4&transport=polling&t=O-2Waym&sid=jyJsmeik6x8wWWPRAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:15:29] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wayn&sid=jyJsmeik6x8wWWPRAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:15:29] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wayx&sid=jyJsmeik6x8wWWPRAAAE HTTP/1.1" 200 -
+a
+a
+a
+e
+e
+e
+v
+v
+v
+e
+e
+e
+v
+v
+v
+e
+e
+e
+a
+a
+a
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.left
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:16:07] "GET /socket.io/?EIO=4&transport=websocket&sid=jyJsmeik6x8wWWPRAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:07] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:07] "GET /socket.io/?EIO=4&transport=polling&t=O-2WkHh HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:07] "POST /socket.io/?EIO=4&transport=polling&t=O-2WkHl&sid=D6S6R-wf-uUtfSu6AAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:07] "GET /socket.io/?EIO=4&transport=polling&t=O-2WkHm&sid=D6S6R-wf-uUtfSu6AAAG HTTP/1.1" 200 -
+e
+e
+e
+e
+a
+a
+a
+a
+b
+b
+b
+b
+a
+a
+a
+a
+e
+e
+e
+e
+b
+b
+b
+b
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.delete
+Key.delete
+Key.delete
+Key.delete
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:16:16] "GET /socket.io/?EIO=4&transport=websocket&sid=D6S6R-wf-uUtfSu6AAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:17] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:17] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wmfr HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:17] "POST /socket.io/?EIO=4&transport=polling&t=O-2Wmfw&sid=V1X0jVo3KVZ9M6UFAAAI HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:17] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wmfx&sid=V1X0jVo3KVZ9M6UFAAAI HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:16:23] "GET /socket.io/?EIO=4&transport=websocket&sid=V1X0jVo3KVZ9M6UFAAAI HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:23] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:23] "GET /socket.io/?EIO=4&transport=polling&t=O-2WoHs HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:23] "POST /socket.io/?EIO=4&transport=polling&t=O-2WoHx&sid=dAO2VtOlxV-KN2kmAAAK HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:23] "GET /socket.io/?EIO=4&transport=polling&t=O-2WoHy&sid=dAO2VtOlxV-KN2kmAAAK HTTP/1.1" 200 -
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:16:24] "GET /socket.io/?EIO=4&transport=websocket&sid=dAO2VtOlxV-KN2kmAAAK HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:24] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:24] "GET /socket.io/?EIO=4&transport=polling&t=O-2WoS_ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:24] "POST /socket.io/?EIO=4&transport=polling&t=O-2WoT4&sid=_3Ned_5KuT360rPVAAAM HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:24] "GET /socket.io/?EIO=4&transport=polling&t=O-2WoT4.0&sid=_3Ned_5KuT360rPVAAAM HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:24] "GET /socket.io/?EIO=4&transport=polling&t=O-2WoTE&sid=_3Ned_5KuT360rPVAAAM HTTP/1.1" 200 -
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:16:25] "GET /socket.io/?EIO=4&transport=websocket&sid=_3Ned_5KuT360rPVAAAM HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:25] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:25] "GET /socket.io/?EIO=4&transport=polling&t=O-2Woeq HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:25] "POST /socket.io/?EIO=4&transport=polling&t=O-2Woeu&sid=nmAvpf5MPyun9LJjAAAO HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:25] "GET /socket.io/?EIO=4&transport=polling&t=O-2Woev&sid=nmAvpf5MPyun9LJjAAAO HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+127.0.0.1 - - [16/May/2024 23:16:30] "GET /socket.io/?EIO=4&transport=websocket&sid=nmAvpf5MPyun9LJjAAAO HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:30] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:30] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wp-e HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:30] "POST /socket.io/?EIO=4&transport=polling&t=O-2Wp-l&sid=OnXGvfG4_zDq-jyFAAAQ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:16:30] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wp-l.0&sid=OnXGvfG4_zDq-jyFAAAQ HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:17:02] "GET /socket.io/?EIO=4&transport=websocket&sid=OnXGvfG4_zDq-jyFAAAQ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:02] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:02] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wxl1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:02] "POST /socket.io/?EIO=4&transport=polling&t=O-2Wxl7&sid=7Lfej7R6tNhdc80hAAAS HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:02] "GET /socket.io/?EIO=4&transport=polling&t=O-2Wxl7.0&sid=7Lfej7R6tNhdc80hAAAS HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:02] "GET /socket.io/?EIO=4&transport=polling&t=O-2WxlI&sid=7Lfej7R6tNhdc80hAAAS HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:17:08] "GET /socket.io/?EIO=4&transport=websocket&sid=7Lfej7R6tNhdc80hAAAS HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:08] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:08] "GET /socket.io/?EIO=4&transport=polling&t=O-2WzJx HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:08] "POST /socket.io/?EIO=4&transport=polling&t=O-2WzK0&sid=4-5lQ3Wbm9i_-IouAAAU HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:08] "GET /socket.io/?EIO=4&transport=polling&t=O-2WzK0.0&sid=4-5lQ3Wbm9i_-IouAAAU HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:08] "GET /socket.io/?EIO=4&transport=polling&t=O-2WzKC&sid=4-5lQ3Wbm9i_-IouAAAU HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+127.0.0.1 - - [16/May/2024 23:17:25] "GET /socket.io/?EIO=4&transport=websocket&sid=4-5lQ3Wbm9i_-IouAAAU HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:25] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:25] "GET /socket.io/?EIO=4&transport=polling&t=O-2X1KN HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:25] "POST /socket.io/?EIO=4&transport=polling&t=O-2X1KS&sid=tJCL2EPx1XapH6ChAAAW HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:25] "GET /socket.io/?EIO=4&transport=polling&t=O-2X1KT&sid=tJCL2EPx1XapH6ChAAAW HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:25] "GET /socket.io/?EIO=4&transport=polling&t=O-2X1Kd&sid=tJCL2EPx1XapH6ChAAAW HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:17:36] "GET /socket.io/?EIO=4&transport=websocket&sid=tJCL2EPx1XapH6ChAAAW HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:36] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:36] "GET /socket.io/?EIO=4&transport=polling&t=O-2X47I HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:36] "POST /socket.io/?EIO=4&transport=polling&t=O-2X47M&sid=NBkM1s2xu6M3WlsbAAAY HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:36] "GET /socket.io/?EIO=4&transport=polling&t=O-2X47N&sid=NBkM1s2xu6M3WlsbAAAY HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:36] "GET /socket.io/?EIO=4&transport=polling&t=O-2X47X&sid=NBkM1s2xu6M3WlsbAAAY HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+
+
+
+
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+127.0.0.1 - - [16/May/2024 23:17:56] "GET /socket.io/?EIO=4&transport=polling&t=O-2X89i HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:56] "POST /socket.io/?EIO=4&transport=polling&t=O-2X8sJ&sid=K7yYdi3PVPlvIbXdAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:56] "GET /socket.io/?EIO=4&transport=polling&t=O-2X8sK&sid=K7yYdi3PVPlvIbXdAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:17:59] "GET /socket.io/?EIO=4&transport=websocket&sid=K7yYdi3PVPlvIbXdAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:06] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:06] "GET /socket.io/?EIO=4&transport=polling&t=O-2XBUB HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:06] "POST /socket.io/?EIO=4&transport=polling&t=O-2XBUI&sid=73KZlhsiN_ylUPl9AAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:06] "GET /socket.io/?EIO=4&transport=polling&t=O-2XBUJ&sid=73KZlhsiN_ylUPl9AAAC HTTP/1.1" 200 -
+q
+w
+e
+r
+t
+y
+Key.alt_l
+Key.tab
+Key.alt_l
+Key.tab
+Key.alt_l
+Key.tab
+Key.left
+Key.backspace
+None
+Key.alt_l
+Key.tab
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:30] "GET /socket.io/?EIO=4&transport=websocket&sid=73KZlhsiN_ylUPl9AAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:30] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:31] "GET /socket.io/?EIO=4&transport=polling&t=O-2XHN0 HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:31] "POST /socket.io/?EIO=4&transport=polling&t=O-2XHN4&sid=R7Ag5HrP7Xm5tFCbAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:31] "GET /socket.io/?EIO=4&transport=polling&t=O-2XHN5&sid=R7Ag5HrP7Xm5tFCbAAAE HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:36] "GET /socket.io/?EIO=4&transport=websocket&sid=R7Ag5HrP7Xm5tFCbAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:36] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:37] "GET /socket.io/?EIO=4&transport=polling&t=O-2XIqj HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:37] "POST /socket.io/?EIO=4&transport=polling&t=O-2XIqp&sid=iehe6aRwf_ctT9r3AAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:37] "GET /socket.io/?EIO=4&transport=polling&t=O-2XIqp.0&sid=iehe6aRwf_ctT9r3AAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:37] "GET /socket.io/?EIO=4&transport=polling&t=O-2XIq-&sid=iehe6aRwf_ctT9r3AAAG HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:40] "GET /socket.io/?EIO=4&transport=websocket&sid=iehe6aRwf_ctT9r3AAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:40] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=polling&t=O-2XJpT HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "POST /socket.io/?EIO=4&transport=polling&t=O-2XJpZ&sid=30pU3Ze5JzSGkl--AAAI HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=polling&t=O-2XJpZ.0&sid=30pU3Ze5JzSGkl--AAAI HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=polling&t=O-2XJph&sid=30pU3Ze5JzSGkl--AAAI HTTP/1.1" 200 -
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=websocket&sid=30pU3Ze5JzSGkl--AAAI HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=polling&t=O-2XJ-d HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "POST /socket.io/?EIO=4&transport=polling&t=O-2XJ-v&sid=p2QqzHygH-AY1qnTAAAK HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:41] "GET /socket.io/?EIO=4&transport=polling&t=O-2XJ-w&sid=p2QqzHygH-AY1qnTAAAK HTTP/1.1" 200 -
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=websocket&sid=p2QqzHygH-AY1qnTAAAK HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=polling&t=O-2XK5y HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "POST /socket.io/?EIO=4&transport=polling&t=O-2XK61&sid=GPBFlGH_N8ohopzMAAAM HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=polling&t=O-2XK62&sid=GPBFlGH_N8ohopzMAAAM HTTP/1.1" 200 -
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=websocket&sid=GPBFlGH_N8ohopzMAAAM HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=polling&t=O-2XK92 HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "POST /socket.io/?EIO=4&transport=polling&t=O-2XK97&sid=Rfzq-sLqpTgqOc9FAAAO HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=polling&t=O-2XK98&sid=Rfzq-sLqpTgqOc9FAAAO HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:42] "GET /socket.io/?EIO=4&transport=polling&t=O-2XK9H&sid=Rfzq-sLqpTgqOc9FAAAO HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+None
+None
+None
+None
+None
+None
+None
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+Key.f5
+127.0.0.1 - - [16/May/2024 23:18:45] "GET /socket.io/?EIO=4&transport=websocket&sid=Rfzq-sLqpTgqOc9FAAAO HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:45] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:46] "GET /socket.io/?EIO=4&transport=polling&t=O-2XL1g HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:46] "POST /socket.io/?EIO=4&transport=polling&t=O-2XL1n&sid=oH_ZP3pElDJFwG1rAAAQ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:46] "GET /socket.io/?EIO=4&transport=polling&t=O-2XL1o&sid=oH_ZP3pElDJFwG1rAAAQ HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+w
+w
+w
+127.0.0.1 - - [16/May/2024 23:18:51] "GET /socket.io/?EIO=4&transport=websocket&sid=oH_ZP3pElDJFwG1rAAAQ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:51] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:51] "GET /socket.io/?EIO=4&transport=polling&t=O-2XMU5 HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:51] "POST /socket.io/?EIO=4&transport=polling&t=O-2XMUC&sid=gj34Uy4K5S8xHgMiAAAS HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:18:51] "GET /socket.io/?EIO=4&transport=polling&t=O-2XMUD&sid=gj34Uy4K5S8xHgMiAAAS HTTP/1.1" 200 -
+q
+q
+q
+q
+q
+q
+q
+q
+q
+w
+w
+w
+w
+w
+w
+w
+w
+w
+127.0.0.1 - - [16/May/2024 23:18:54] "GET /socket.io/?EIO=4&transport=websocket&sid=gj34Uy4K5S8xHgMiAAAS HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
+
+
+
+
+
+
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-242-608
+127.0.0.1 - - [16/May/2024 23:19:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:05] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:05] "GET /socket.io/?EIO=4&transport=polling&t=O-2XPma HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:05] "POST /socket.io/?EIO=4&transport=polling&t=O-2XPmi&sid=8IvPDabvZc9IyRVSAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:05] "GET /socket.io/?EIO=4&transport=polling&t=O-2XPmj&sid=8IvPDabvZc9IyRVSAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:05] "GET /socket.io/?EIO=4&transport=polling&t=O-2XPms&sid=8IvPDabvZc9IyRVSAAAA HTTP/1.1" 200 -
+q
+w
+e
+r
+t
+y
+127.0.0.1 - - [16/May/2024 23:19:09] "GET /socket.io/?EIO=4&transport=websocket&sid=8IvPDabvZc9IyRVSAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:11] "GET /web_application_hacking HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:11] "[36mGET /static/css/web_application_hacking.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [16/May/2024 23:19:11] "[36mGET /static/css/col.css HTTP/1.1[0m" 304 -
+Starting new HTTPS connection (1): www.google.com:443
+https://www.google.com:443 "GET / HTTP/1.1" 200 None
+127.0.0.1 - - [16/May/2024 23:19:13] "POST /web_application_hacking HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:13] "[36mGET /static/css/web_application_hacking.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [16/May/2024 23:19:13] "[36mGET /static/css/col.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [16/May/2024 23:19:15] "GET /web_application_hacking HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:17] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:17] "GET /socket.io/?EIO=4&transport=polling&t=O-2XSlb HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:17] "POST /socket.io/?EIO=4&transport=polling&t=O-2XSlg&sid=6U5J5IcDZkJ9gOjgAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:17] "GET /socket.io/?EIO=4&transport=polling&t=O-2XSlh&sid=6U5J5IcDZkJ9gOjgAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:17] "GET /socket.io/?EIO=4&transport=polling&t=O-2XSls&sid=6U5J5IcDZkJ9gOjgAAAC HTTP/1.1" 200 -
+q
+q
+w
+w
+e
+e
+r
+r
+t
+t
+y
+y
+127.0.0.1 - - [16/May/2024 23:19:22] "GET /socket.io/?EIO=4&transport=websocket&sid=6U5J5IcDZkJ9gOjgAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:23] "GET /network_scanner HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:26] "POST /network_scanner HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:28] "GET /network_scanner HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:30] "GET /malware HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:31] "GET /socket.io/?EIO=4&transport=polling&t=O-2XV__ HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:31] "POST /socket.io/?EIO=4&transport=polling&t=O-2XW04&sid=jz_N_OvFVB0wxHItAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:31] "GET /socket.io/?EIO=4&transport=polling&t=O-2XW06&sid=jz_N_OvFVB0wxHItAAAE HTTP/1.1" 200 -
+q
+q
+q
+w
+w
+w
+e
+e
+e
+127.0.0.1 - - [16/May/2024 23:19:34] "GET /socket.io/?EIO=4&transport=websocket&sid=jz_N_OvFVB0wxHItAAAE HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:36] "GET /socket.io/?EIO=4&transport=polling&t=O-2XXEg HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:36] "POST /socket.io/?EIO=4&transport=polling&t=O-2XXEn&sid=zAso3cAsYDuj2EfeAAAG HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2024 23:19:36] "GET /socket.io/?EIO=4&transport=polling&t=O-2XXEo&sid=zAso3cAsYDuj2EfeAAAG HTTP/1.1" 200 -
+q
+q
+q
+w
+w
+w
+e
+e
+e
+127.0.0.1 - - [16/May/2024 23:19:38] "GET /socket.io/?EIO=4&transport=websocket&sid=zAso3cAsYDuj2EfeAAAG HTTP/1.1" 200 -
+Key.alt_l
+Key.alt_l
+Key.alt_l
+Key.tab
+Key.tab
+Key.tab
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+
+
+
