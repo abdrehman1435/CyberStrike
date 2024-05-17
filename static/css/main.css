@@ -1,0 +1,78 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Tahoma;
+    width: 100%;
+    background-color: black;
+ }
+.navbar-nav li {
+    font-size: 20px;
+    font-weight: 400;
+    transition: transform 0.2s; 
+}
+
+
+
+.navbar-nav a {
+    color: white;
+    transition: color 0.2s; 
+}
+
+
+
+
+.navbar-nav a:hover {
+    color: #e63d59; 
+    transform: scale(1.1);
+}
+
+
+#hero {
+    height: 90vh;
+    background-size: cover;
+    background-position: right;
+    transition: background-size 0.5s, background-position 0.5s;
+}
+
+.heading-text{
+    margin-top:24px;
+    font-size: 18px;
+}
+
+.text-font{
+
+    font-size: 60px;
+    font-weight: 500;
+    animation: move 4s infinite;
+
+}
+
+.btn-scan{
+
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    outline: hidden;
+    cursor: pointer;
+    color: white;
+    border: 3px solid white;
+
+
+}
+
+.btn-scan:hover{
+    background-color: transparent;
+    color: white;
+    border-color: rgb(157, 14, 14);
+    
+
+
+}
+
+
